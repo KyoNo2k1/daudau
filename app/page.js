@@ -1,5 +1,5 @@
 "use client";
-import MediaGallery from "../components/Gallery";
+import MediaGallery from "../components/MediaGallery";
 import media from "../data/media";
 
 export default function Home() {

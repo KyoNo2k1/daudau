@@ -1,4 +1,3 @@
-// components/Gallery.js
 import styled from "styled-components";
 
 const GalleryWrapper = styled.div`
@@ -26,7 +25,7 @@ const Video = styled.video`
   controls: true;
 `;
 
-export default function Gallery({ media }) {
+export default function MediaGallery({ media }) {
   return (
     <GalleryWrapper>
       {media.map((item, index) => (
