@@ -2,8 +2,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "My Portfolio",
-  description: "A portfolio showcasing images and videos.",
+  title: "Đậu đậu đáng yêu",
+  description: "<3",
 };
 
 export default function RootLayout({ children }) {
